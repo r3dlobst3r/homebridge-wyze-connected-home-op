@@ -1,5 +1,7 @@
 # homebridge-wyze-connected-home
 ## Releases
+### v.0.5.4
+- Fixed 403 Error
 
 ### v0.5.3
 - Improve logfile output for Bulb and Outdoor Plug
