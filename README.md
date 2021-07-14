@@ -48,3 +48,5 @@ Special thanks to the following projects for reference and inspiration:
 * **[wyze-node](https://github.com/noelportugal/wyze-node)**, a Node library for the Wyze API
 
 Also, thanks to the [contributors](https://github.com/misenhower/homebridge-wyze-connected-home/graphs/contributors) who volunteered their time to help add support for more devices and features.
+
+This was just a small project for me to be able to get the 403 error fix into hoobs. I do not have much coding experince so there won't be a ton of updates. If anyone is willing to edit code to add future devices be my guest!
