@@ -2,7 +2,7 @@
 
 # homebridge-wyze-connected-home
 
-This plugin adds support for Wyze Connected Home devices to [Homebridge](https://github.com/homebridge/homebridge).
+This plugin adds support for Wyze Connected Home devices to [Homebridge](https://github.com/homebridge/homebridge) & [Hoobs](https://github.com/hoobs-org/HOOBS).
 
 ## Supported Devices
 - Light Bulb
