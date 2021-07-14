@@ -1,9 +1,9 @@
 const { Service, Characteristic } = require('../types');
 const WyzeAccessory = require('./WyzeAccessory');
 
-const WYZE_API_POWER_PROPERTY = 'P3';
 
-module.exports = class WyzePlug extends WyzeAccessory {
+
+module.exports = class WyzeThermostat extends WyzeAccessory {
   constructor(plugin, homeKitAccessory) {
     super(plugin, homeKitAccessory);
 
