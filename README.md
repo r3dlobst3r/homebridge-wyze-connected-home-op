@@ -1,3 +1,5 @@
+[![homebridge-wyze-connected-home-op: Wyze Connected Home plugin for Homebridge & Hoobs](https://github.com/ndejong5/homebridge-wyze-connected-home-op/blob/master/wyze%20hoobs%20logo.png?raw=true)](https://github.com/ndejong5/homebridge-wyze-connected-home-op)
+
 # homebridge-wyze-connected-home
 
 This plugin adds support for Wyze Connected Home devices to [Homebridge](https://github.com/homebridge/homebridge).
